@@ -2,8 +2,7 @@
 #include<string.h>
 int main(void)
 {
-	int a;
-	scanf("%d",&a);
+	int a=2;
 	if(a >= 0)
 	{
 		printf("Positive");
