@@ -2,12 +2,12 @@
 #include<string.h>
 int main(void)
 {
-  int a,i;
+  int a,i,fact=1;
   scanf("%d",&a);
-  for(i=0;i<a;i++)
+  for(i=1;i<=a;i++)
   {
-     a=a*i;
+     fact=fact*i;
   }
-  printf("%d",a);
+  printf("%d",fact);
   return 0;
 }
