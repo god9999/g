@@ -3,8 +3,8 @@
 int main(void)
 
   int a,i=0;
-  a=6;
-  int sum=0;
+int sum=0;
+  scanf("%d",&a);
   while(i<=a)
   {
     sum=sum+i;
