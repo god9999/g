@@ -2,9 +2,9 @@
 #include<string.h>
 int main(void)
 {
-      char a[]="Hello";
+      char a[20];
       int i;
-      
+      scanf("%s",a);
       for(i=0;i<5;i++)
       {
       	printf("%s\n",a);
