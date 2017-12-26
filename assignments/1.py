@@ -1,7 +1,7 @@
-a=10
-b=20
-a=a+b
-b=a-b
-a=a-b
-print(a)
-print(b)
+A=10
+B=20
+a=A+B
+b=A-B
+a=A-B
+print("A =",a)
+print("B =",b)
