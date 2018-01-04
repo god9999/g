@@ -1,0 +1,150 @@
+1) 
+<!DOCTYPE html>
+<html>
+<head>
+   <title> "London" </title>
+   </head>
+<body>
+<h1>London</h1>
+  <p>London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.</p>
+ </body>
+  </html>
+
+
+2)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>new project</title>
+ </head>
+<body>
+<h1>google</h1>
+<hr>
+<p> Google is an American multinational technology company that specializes in Internet-related services and products. These include online advertising technologies, search, cloud computing, software, and hardware.</p>
+</body>
+</html>
+
+3)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>new source </title>
+</head>
+<body>
+   <h1>Hello</h1>
+  <h2>Hello</h2>
+  <h3>Hello</h3>
+  <h4>Hello</h4>
+  <h5>Hello</h5>
+  <h6>Hello</h6>
+</body>
+</html>
+
+4)
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--this is a message-->
+<title>new comment </title>
+</head>
+<body>
+ <h1>Universal Studios Presents</h1>
+<h2>Jurassic Park</h2>
+<h3>About</h3>
+<p> This is a movie which says about the existence of the dinosarous during those days and their dominance over the human race.These species were troubling the human races a lot and killed people for their hunger.</p>
+</body>
+</html>
+
+5)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> my statement </title>
+</head>
+<body>
+<p style="font-size:300%";> hello<br>
+say <br> and <br>blast him</p>
+</body>
+</html> 
+
+
+6)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> my statement </title>
+</head>
+<body>
+<pre>
+ enter the string to be displayed 
+ get it using the scanner function
+ The string has to be processed using the given build-in function 
+ In order to get the desired output
+ Print the output string
+ Thus the string gets printed  
+ Onto the output screen
+ Where the user could be able to view
+ Run the program in the end
+ Object files gets directly converted into machile level without showing it to us.
+</pre>
+</body>
+</html>
+
+
+7)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> my statement </title>
+</head>
+<body>
+ <p style= "color:blue"; > This is a beautiful city which comprises of many things.This is the place where one can be peaceful and remove all his sorrows and keep it down.</p>
+</body>
+</html>
+
+
+8)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> my statement </title>
+</head>
+<body>
+<p style=" font-family:courier ; text-align:center; font-size:50px ;"> this is something which can be explained in terms of abbrevations.</p>
+</body>
+</html>
+
+
+9)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> my program </title>
+</head>
+<body style="background-color:yellow";>
+<h1>HAI ALL</h1>
+<p><a href ="https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">click here to go to gmail page</a></p>
+</body>
+</html>
+
+
+10)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> my code </title> 
+</head>
+<body>
+ <p>this is a particular task given to find how is the real fighter and <span style=" font-size:30px ; font-family: courier ; font-name: italic ;">will lead their life in a better way</span></p>
+</body>
+</html>
