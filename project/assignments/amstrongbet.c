@@ -1,24 +1,26 @@
-#include<stdio.h>
-#include<string.h>
-int main(void)
-{
-  int a,b,i,temp,digit;
-  int rema;
-  scanf("%d%d",&a,&b);
-  for(i=a+1;i<b;i++)
-  {
-    temp=i;
-    digit=0;
-    while(temp!=0)
+    #include<stdio.h>
+    #include<conio.h>
+    int main( )
     {
-      rema= temp%10;
-      rem+=rema*rema*rema;
-      temp=temp/10;
-     }
-    if(i==digit)
+    int no=2,temp,rem,sum,count=0,a,b;
+    scanf("%d%d",&a,&b);
+    for(no>a; no<b; no++)
     {
-      printf("%d",i);
-     }
+    temp=no;
+    sum=0;
+    while(temp>0)
+    {
+    rem=temp%10;
+    sum=sum+(rem*rem*rem);
+    temp=temp/10;
     }
+    if(no==sum)
+    {
+    printf("\n%d", no);
+    count++;
+    }
+    }
+
+    
     return 0;
-  }
+    }
