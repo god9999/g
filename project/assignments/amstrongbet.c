@@ -4,7 +4,7 @@
     {
     int no=2,temp,rem,sum,count=0,a,b;
     scanf("%d%d",&a,&b);
-    for(no>a; no<b; no++)
+    for(no=a+1; no<b; no++)
     {
     temp=no;
     sum=0;
