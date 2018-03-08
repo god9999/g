@@ -2,14 +2,13 @@
 #include<string.h>
 int main(void)
 {
-    char str[20];
-    int a,i,temp;
-    int length;
+    int temp;
+    int a,b;
     scanf("%d",&a);
-    sprintf(str,"%d",a);
-    temp=str[0];
-    str[0]=str[1];
-    str[1]=temp;
-    printf("%s",str);
+    scanf("%d",&b);
+    temp=a;
+    a=b;
+    b=temp;
+    printf("%d %d",a,b);
     return 0;
 }
