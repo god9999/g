@@ -7,7 +7,15 @@ int main(void)
 	length=strlen(str);
 	for(i=0;i<length;i++)
 	{
-		printf("%c",str[i]+3);
+		if(str[i]=='X')
+	    str[i]='A';
+		else if(str[i]=='Y')
+		str[i]='B';
+		else if(str[i]=='Z')
+		str[i]='C';
+		else
+		str[i]=str[i]+3;
 	}
+	printf("%s",str);
 	return 0;
 }
