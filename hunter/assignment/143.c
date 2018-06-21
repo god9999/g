@@ -1,10 +1,10 @@
 #include <stdio.h>
-
-int main(void)
+int main()
 {
 	int n,m;
-	scanf("%d %d",&n,&m);
-	int a[n],b[n],i,j,flag=0;
+	scanf("%d",&m);
+	scanf("%d",&n);
+	int a[m],b[n],i,j,flag=0;
 	for(i=0;i<n;i++)
 	{
 		scanf("%d ",&a[i]);
