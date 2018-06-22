@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 char *removeDuplicate(char str[], int n)
 {
